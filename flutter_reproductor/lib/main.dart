@@ -4,6 +4,8 @@ import 'package:flutter_reproductor/reproductor.dart';
 
 import 'modelos/canciones.dart';
 
+//Kevin Alexis Vasquez Cruz
+
 void main() {
   runApp(const MyApp());
 }
